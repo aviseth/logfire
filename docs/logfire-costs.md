@@ -88,6 +88,7 @@ and treat Logfire as an analytical database. You're then free to save this data 
 of your choice (S3, GCS etc.)
 
 See **[Query API docs](how-to-guides/query-api.md)** for Arrow/CSV examples, auth tokens, and tips.
+See **[Rate limits](reference/rate-limits.md)** for query allowances, request limits, and retry behavior by plan.
 
 Enterprise plans support native extended retention. Email `sales@logfire.dev` if that's what you need.
 

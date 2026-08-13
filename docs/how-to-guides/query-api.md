@@ -15,6 +15,7 @@ It requires a **read token** for authentication, which can be generated from the
 
 The API can return data in various formats, including JSON, Apache Arrow, and CSV, to suit your needs.
 See [here](#additional-configuration) for more details about the available response formats.
+Before scheduling queries or large exports, review the organization-wide [rate limits](../reference/rate-limits.md).
 
 ## How to Create a Read Token
 
